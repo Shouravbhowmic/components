@@ -1,0 +1,39 @@
+.header,.hero,.body,.bar,.footer{
+	background-color: pink;
+}
+.box{
+	height: 50px;
+	background-color: orange;
+	margin-bottom: 5px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.alert{
+	    color: #799c05;
+    background-color: #f6d5da;
+    border-color: #f5c3cb;
+}
+.badge-light {
+    color: #212529;
+    background-color: hotpink;
+    float: center;
+}
+.badge-1{
+	background-color: yellow;
+	
+}
+.button3{
+	background-color: pink;
+	float: center;
+	margin: 6px;
+}
+.card{
+	float: left;
+}
+.card-2{
+	float: right;
+}
